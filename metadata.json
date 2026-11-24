@@ -1,0 +1,6 @@
+{
+  "name": "NSE Strong Long Persistence Scanner",
+  "description": "NSE 5-Minute Strong Long Persistence Scanner with 20-minute follow-through filter, pre-breakout watch, dip recovery, and live technical indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
